@@ -1,0 +1,5 @@
+﻿License information.
+
+This is a source code sample intended for PSWinCom Customers.
+
+The log4net library is included as a Nuget package, this is open source software that is its own license, more information us found at http://logging.apache.org/log4net/license.html.
